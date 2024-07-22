@@ -6,7 +6,6 @@ Microplastics cause cancer.
 
 ## Backlog
 
-1. **Impact of Microplastics on Cellular DNA**: Investigate how microplastics might cause mutations or other changes in cellular DNA that could lead to cancer.
 2. **Microplastics and Immune System Response**: Explore how the presence of microplastics in the body might affect the immune system and its ability to detect and destroy cancer cells.
 3. **Comparative Study of Microplastic Exposure**: Compare cancer rates in populations with high and low levels of microplastic exposure.
 4. **Longitudinal Studies on Microplastic Exposure**: Conduct long-term studies to observe the effects of chronic microplastic exposure on cancer development.
@@ -36,3 +35,4 @@ Answering these research questions will help validate or invalidate the hypothes
 * [Research Question 9: What are the potential sources of microplastic contamination?](./Research_Question_9_Potential_Sources_of_Microplastic_Contamination.md)
 * [Research Question 10: What are the regulatory and policy responses to microplastic pollution?](./Research_Question_10_Regulatory_and_Policy_Responses_to_Microplastic_Pollution.md)
 * [Research Question 11: Current Research on Microplastics and Cancer](./Research_Question_11_Current_Research_on_Microplastics_and_Cancer.md)
+* [Impact of Microplastics on Cellular DNA](./Impact_of_Microplastics_on_Cellular_DNA.md)
