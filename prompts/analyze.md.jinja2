@@ -1,0 +1,9 @@
+{% set project=select('Select a research project to analyze', sh("find . -maxdepth 1 -type d").split('\n')) %}
+
+We have answered the research questions for the project in: `{{ project}}`
+
+---
+{{ sh(['find', project, '-type', 'f', '-name', '*.md', '-exec', 'cat', '{}', '+']) }}
+---
+
+Draw a conclusion about the hypothesis based on our research findings.

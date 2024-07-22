@@ -6,3 +6,5 @@ The README file is structured as follows:
 - A hypothesis or research question
 - A table of contents in the README.md file, referencing each Markdown file in the project (initially empty)
 - A backlog of items to research next with checkboxes to track progress
+
+IMPORTANT: All research MUST contain reference links to the sources of information.

@@ -1,1 +1,43 @@
-commands: []
+commands:
+- description: Analyze a knowledge base and draw conclusions about the hypothesis
+  name: analyze
+  params:
+    cheap: false
+    code: false
+    debug: false
+    direct: false
+    file: prompts/analyze.md.jinja2
+    model: gpt-4o
+    snap: false
+    spinner: true
+    sync: true
+    verbose: true
+    wait: true
+- description: Create a new research project
+  name: create-project
+  params:
+    cheap: false
+    code: false
+    debug: false
+    direct: false
+    file: prompts/create-project.md.jinja2
+    model: gpt-4o
+    snap: false
+    spinner: true
+    sync: true
+    verbose: true
+    wait: true
+- description: Do research on a projects backlog item
+  name: iterate
+  params:
+    cheap: false
+    code: false
+    debug: false
+    direct: false
+    file: prompts/iterate.md.jinja2
+    model: gpt-4o
+    snap: false
+    spinner: true
+    sync: true
+    verbose: true
+    wait: true
