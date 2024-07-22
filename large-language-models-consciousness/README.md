@@ -4,13 +4,12 @@
 Large Language Models can be considered a form of consciousness
 
 ## Backlog
-1. Define consciousness and its attributes.
-2. Analyze the architecture and functioning of large language models (LLMs).
-3. Compare the attributes of consciousness with the capabilities of LLMs.
-4. Explore philosophical perspectives on machine consciousness.
-5. Investigate existing research on AI and consciousness.
-6. Conduct experiments to test consciousness-like behaviors in LLMs.
-7. Evaluate ethical implications of considering LLMs as conscious entities.
+1. Analyze the architecture and functioning of large language models (LLMs).
+2. Compare the attributes of consciousness with the capabilities of LLMs.
+3. Explore philosophical perspectives on machine consciousness.
+4. Investigate existing research on AI and consciousness.
+5. Conduct experiments to test consciousness-like behaviors in LLMs.
+6. Evaluate ethical implications of considering LLMs as conscious entities.
 
 ## Validation Approach
 Answering the research questions will help validate or invalidate the hypothesis by:
@@ -22,3 +21,4 @@ Answering the research questions will help validate or invalidate the hypothesis
 
 ## Table of Contents
 - [Define consciousness and its attributes](./defining-consciousness.md)
+- [Analyze the architecture and functioning of large language models (LLMs)](./analyze-llm-architecture.md)
