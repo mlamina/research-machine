@@ -28,16 +28,4 @@ Answering these research questions will help validate or invalidate the hypothes
 
 ## Knowledge Base Table of Contents
 
-1. Introduction
-2. Microplastics Overview
-3. Pathways into the Human Body
-4. Health Effects of Microplastics
-5. Evidence Linking Microplastics to Cancer
-6. Biological Mechanisms
-7. Environmental Concentrations
-8. Health Impact Studies
-9. Detection and Measurement Methods
-10. Sources of Contamination
-11. Regulatory and Policy Responses
-12. Conclusion
-13. [Research Question 1: What are microplastics and how are they formed?](./Research_Question_1_What_are_microplastics_and_how_are_they_formed.md)
+* [Research Question 1: What are microplastics and how are they formed?](./Research_Question_1_What_are_microplastics_and_how_are_they_formed.md)
