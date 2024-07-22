@@ -4,5 +4,5 @@ A research project is a collection of Markdown files that explore a hypothesis o
 
 The README file is structured as follows:
 - A hypothesis or research question
-- A table of contents in the README.md file, referencing each Markdown file in the project
-- A backlog of items to research next
+- A table of contents in the README.md file, referencing each Markdown file in the project (initially empty)
+- A backlog of items to research next with checkboxes to track progress
