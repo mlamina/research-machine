@@ -1,4 +1,4 @@
-{% set project=select('Select a research project to analyze', sh("find . -maxdepth 1 -type d").split('\n')) %}
+{%  set project = env('PROJECT_DIR') %}
 
 We have answered the research questions for the project in: `{{ project}}`
 

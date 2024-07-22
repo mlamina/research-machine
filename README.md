@@ -1,13 +1,24 @@
 # Research Machine
 
-## Overview
+This project uses the [Pilot CLI](https://github.com/PR-Pilot-AI/pr-pilot-cli) to automate research tasks and draw conclusions from the data.
 
-This project is designed to facilitate and document research on various hypotheses. Each research project is contained within its own directory and includes a backlog of tasks, a validation plan, and a knowledge base.
+## How it works
 
-## Table of Contents
+Every "research project" is in its own directory:
 
 - [Donald Trump 2024 Election Hypothesis](donald-trump-2024-election/README.md)
 - [Microplastics Cause Cancer](microplastics-cause-cancer/README.md)
+
+Each research project is defined by:
+1. A hypothesis 
+2. A backlog of research items
+3. A knowledge base of research findings
+
+### Creating a new research project
+
+To create a new research project, use the `pilot create-project` command:
+
+```shell
 
 ## How to Use This Project
 
