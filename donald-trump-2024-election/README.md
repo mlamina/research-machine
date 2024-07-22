@@ -5,7 +5,7 @@ Donald Trump is going to win the 2024 election
 
 ## Backlog
 - Study historical election outcomes and their influencing factors [Done](./Historical_Election_Outcomes.md)
-- Investigate the impact of key issues on voter behavior
+- Investigate the impact of key issues on voter behavior [Done](./Key_Issues_and_Voter_Behavior.md)
 - Examine the role of campaign strategies and media coverage
 - Assess the influence of third-party candidates
 - Evaluate the potential impact of economic indicators
@@ -17,7 +17,7 @@ Answering the research questions will help validate or invalidate the hypothesis
 ## Knowledge Base Table of Contents
 - [x] Polling Data Analysis
 - [x] Historical Election Outcomes
-- [ ] Key Issues and Voter Behavior
+- [x] Key Issues and Voter Behavior
 - [ ] Campaign Strategies and Media Coverage
 - [ ] Third-Party Candidates
 - [ ] Economic Indicators
