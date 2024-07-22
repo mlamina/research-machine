@@ -16,9 +16,27 @@ Each research project is defined by:
 
 ### Creating a new research project
 
-To create a new research project, use the `pilot create-project` command:
+To create a new research project for a hypothesis, use the `pilot create-project` command:
 
 ```shell
+➜  research-machine git:(main) pilot run create-project              
+> Hypothesis: Large Language Models can be considered a form of consciousness
+╭──────────────────────────────────────────────────── Result ────────────────────────────────────────────────────╮
+│ The new research project has been initiated with the following details:                                        │
+│                                                                                                                │
+│  • Project Slug: large-language-models-consciousness                                                           │
+│  • File Created: large-language-models-consciousness/README.md                                                 │
+│                                                                                                                │
+│ The README file contains the hypothesis, a backlog of research questions, a validation approach, and an empty  │
+│ table of contents section.                                                                                     │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+```
+
+This will initialize the project directory with a `README.md` file that contains the hypothesis, a backlog of research questions, a validation approach, and an empty table of contents section.
+
+### Iterating on a research project
+
+
 
 ## How to Use This Project
 

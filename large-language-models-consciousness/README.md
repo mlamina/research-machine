@@ -21,3 +21,4 @@ Answering the research questions will help validate or invalidate the hypothesis
 - Addressing ethical considerations and implications.
 
 ## Table of Contents
+- [Define consciousness and its attributes](./defining-consciousness.md)
