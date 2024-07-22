@@ -1,0 +1,9 @@
+{%  set project = env('PROJECT_DIR') %}
+
+We have answered the research questions for the project in: `{{ project}}`
+
+---
+{{ sh(['find', project, '-type', 'f', '-name', '*.md', '-exec', 'cat', '{}', '+']) }}
+---
+
+Draw a conclusion about the hypothesis based on our research findings.
