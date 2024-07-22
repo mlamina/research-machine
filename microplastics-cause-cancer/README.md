@@ -6,7 +6,7 @@ Microplastics cause cancer.
 
 ## Backlog
 
-1. **Research Question 10:** What are the regulatory and policy responses to microplastic pollution?
+
 
 ## Validation Approach
 
@@ -29,3 +29,4 @@ Answering these research questions will help validate or invalidate the hypothes
 * [Research Question 7: How do different concentrations of microplastics affect human health?](./Research_Question_7_How_do_different_concentrations_of_microplastics_affect_human_health.md)
 * [Research Question 8: What are the current methods for detecting and measuring microplastics in the human body?](./Research_Question_8_Current_Methods_for_Detecting_and_Measuring_Microplastics_in_the_Human_Body.md)
 * [Research Question 9: What are the potential sources of microplastic contamination?](./Research_Question_9_Potential_Sources_of_Microplastic_Contamination.md)
+* [Research Question 10: What are the regulatory and policy responses to microplastic pollution?](./Research_Question_10_Regulatory_and_Policy_Responses_to_Microplastic_Pollution.md)
