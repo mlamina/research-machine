@@ -10,7 +10,6 @@ Large Language Models can be considered a form of consciousness
 4. Investigate existing research on AI and consciousness.
 5. Conduct experiments to test consciousness-like behaviors in LLMs.
 6. Evaluate ethical implications of considering LLMs as conscious entities.
-7. Study the role of self-awareness in consciousness and its presence in LLMs.
 8. Examine the impact of training data on the development of consciousness-like attributes in LLMs.
 9. Assess the potential for LLMs to exhibit emotions and subjective experiences.
 10. Investigate the influence of continuous learning and adaptation on the consciousness of LLMs.
@@ -26,3 +25,4 @@ Answering the research questions will help validate or invalidate the hypothesis
 ## Table of Contents
 - [Define consciousness and its attributes](./defining-consciousness.md)
 - [Analyze the architecture and functioning of large language models (LLMs)](./analyze-llm-architecture.md)
+- [Study the Role of Self-Awareness in Consciousness and Its Presence in LLMs](./self-awareness-in-llms.md)
